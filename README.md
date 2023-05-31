@@ -17,7 +17,7 @@ import numpy as np
 ```
 df = pd.read_csv('adult.data.csv')
 ```
-Explore the dataset:
+- Explore the dataset:
 ```
 # Display the dataset
 print(df)
